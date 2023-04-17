@@ -3,7 +3,6 @@ package com.Employee.EmployeeManagement.Entity;
 import net.bytebuddy.dynamic.loading.InjectionClassLoader;
 
 import javax.persistence.*;
-
 @Entity
 @Table(name="Employee_Table")
 public class Employee {
